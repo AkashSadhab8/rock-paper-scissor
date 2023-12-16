@@ -63,14 +63,11 @@ img {
     padding: 1rem;
     border-radius: 1rem;
   }
- 
 }
 @media screen and (max-width: 620px) {
   .choices,
   .score,
-  .msg-container{
+  .msg-container {
     display: none; /* Hide the message on small screens */
   }
-
- 
 }
